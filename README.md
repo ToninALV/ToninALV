@@ -1,6 +1,6 @@
-### Meu nome é Antonio Silva
+### Meu nome é Antonio Silva ###
 
-- 👀 Hoje trabalho com Redes
+- 💻 Trabalhando como Analista de Redes N3 - 4 anos
 - 📝 Estudando Programação
 
 
