@@ -1,6 +1,6 @@
 ### Meu nome é Antonio Silva ###
 
-- 💻 Trabalhando como Analista de Redes N3 - 4 anos
+- 💻 Trabalhando como Analista de Redes CORE I - 5 anos
 - 📝 Estudando Programação
 
 
